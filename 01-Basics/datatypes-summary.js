@@ -35,3 +35,25 @@ const myfunction= function()
 console.log(typeof bigNumber);
 
 //// https://262.ecma-international.org/5.1/#sec-11.4.3
+
+//************************/
+
+//stack (primitive) copy , heap (non-primitive) reference
+
+let myyoutubename = "codestation"
+
+let anothername = "thecodinggeeks"
+console.log(myyoutubename);
+console.log(anothername);
+
+let userone ={
+    email: "userone",
+    upi:"user@ybl"
+}
+let usertwo = {
+    email:"usertwo",
+    upi:"two@ybl"
+}
+
+console.log(userone)
+console.log(usertwo);
