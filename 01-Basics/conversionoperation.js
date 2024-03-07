@@ -1,5 +1,5 @@
-let score = "hitesh"
-
+let score = "aachal"
+ score = 33
 // console.log(typeof score);
 // console.log(typeof(score));
 
