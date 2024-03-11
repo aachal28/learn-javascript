@@ -1,9 +1,5 @@
 # learn-javascript
 
-Hi there!👋
-Welcome to my JavaScript learning journey repository.
-I'm Aachal Pardeshi, an aspiring MERN Stack Developer with a passion for creating content.
-
 # 📚 Purpose
 The primary goal of this repository is to document my journey in learning JavaScript. I'll be sharing my notes and code snippets here, which I hope will be helpful for beginners diving into JavaScript. Whether you're new to programming or looking to brush up on your skills, you're in the right place! 🔥
 
