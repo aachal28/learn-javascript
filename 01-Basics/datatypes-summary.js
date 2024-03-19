@@ -1,6 +1,6 @@
 //primitive
 
-//7 type: string, number, boolean, null(empty), undefiened(space), symbol, BigInt
+//7 type of data: string, number, boolean, null(empty), undefiened(space), symbol, BigInt
 
 const score =100;
 const scoreVal =100.3
